@@ -1,1 +1,10 @@
-{}
+{
+  "description": "Displays a simple Hello World message, providing a clear starting point for exploring a basic React application.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
